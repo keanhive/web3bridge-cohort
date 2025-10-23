@@ -2,5 +2,5 @@
 2:I[669,["177","static/chunks/app/layout-38f754ef05f84cdc.js"],"GameProvider"]
 3:I[8266,[],""]
 4:I[3432,[],""]
-:HL["/web3bridge-cohort/_next/static/css/e45ac6120c590417.css","style"]
-0:{"buildId":"oV8Lg2CM-ijYqpx8q6gQE","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/web3bridge-cohort/_next/static/css/e45ac6120c590417.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-gray-100 text-gray-900 min-h-screen","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"loading":null,"isPartial":false}
+:HL["/web3bridge-cohort/_next/static/css/763207f5b8d6cc00.css","style"]
+0:{"buildId":"vBgtHWMtcQ9J6u7cfzGRs","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/web3bridge-cohort/_next/static/css/763207f5b8d6cc00.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-gray-100 text-gray-900 min-h-screen","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"loading":null,"isPartial":false}
