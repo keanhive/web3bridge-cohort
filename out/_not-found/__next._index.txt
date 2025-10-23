@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[4737,["177","static/chunks/app/layout-6fc0c087c0dc1da4.js"],"GameProvider"]
-3:I[9766,[],""]
-4:I[8924,[],""]
-:HL["/_next/static/css/e45ac6120c590417.css","style"]
-0:{"buildId":"xu2PefiJ8ghMPdGi4cbBr","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e45ac6120c590417.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-gray-100 text-gray-900 min-h-screen","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"loading":null,"isPartial":false}
