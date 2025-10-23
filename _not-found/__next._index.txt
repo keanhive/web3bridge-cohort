@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[4737,["177","static/chunks/app/layout-6fc0c087c0dc1da4.js"],"GameProvider"]
-3:I[9766,[],""]
-4:I[8924,[],""]
-:HL["/_next/static/css/c2893c295b282afa.css","style"]
-0:{"buildId":"ijKuSuiOtJsFZnwkKAtqW","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c2893c295b282afa.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-gray-100 text-gray-900 min-h-screen","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"loading":null,"isPartial":false}
+2:I[669,["177","static/chunks/app/layout-38f754ef05f84cdc.js"],"GameProvider"]
+3:I[8266,[],""]
+4:I[3432,[],""]
+:HL["/web3bridge-cohort/_next/static/css/e45ac6120c590417.css","style"]
+0:{"buildId":"0tM1W9II0-hIxga9M6ydx","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/web3bridge-cohort/_next/static/css/e45ac6120c590417.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-gray-100 text-gray-900 min-h-screen","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"loading":null,"isPartial":false}
